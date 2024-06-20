@@ -1,0 +1,1013 @@
+{
+  "1": [
+    {
+      "timestamp": 1702316447.2121897,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 19.803445251173457,
+      "take_over_indication": 1702316427.206155,
+      "brake_reaction_time": 6.495412826538086,
+      "steering_reaction_time": 7.314634323120117,
+      "max_longitudinal_deceleration": 7.913684844970703
+    }
+  ],
+  "2": [
+    {
+      "timestamp": 1712852388.7757504,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.0011331486947488752,
+      "max_lateral_deviation": 0.011089510733622252,
+      "take_over_indication": 1712852368.7502217,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 0.0240325927734375
+    }
+  ],
+  "3": [
+    {
+      "timestamp": 1712852911.7561548,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.5268470799936542,
+      "max_lateral_deviation": 7.349720669830342,
+      "take_over_indication": 1712852891.7327702,
+      "brake_reaction_time": 1.47800874710083,
+      "steering_reaction_time": 8.282658815383911,
+      "max_longitudinal_deceleration": 2.6688575744628906
+    },
+    {
+      "timestamp": 1712853258.8735447,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.5703005403843007,
+      "max_lateral_deviation": 2.0800255779356775,
+      "take_over_indication": 1712853238.8676114,
+      "brake_reaction_time": 3.4427616596221924,
+      "steering_reaction_time": 7.237775802612305,
+      "max_longitudinal_deceleration": 3.1485557556152344
+    },
+    {
+      "timestamp": 1712853422.7385595,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.48733683315144366,
+      "max_lateral_deviation": 4.309315046999749,
+      "take_over_indication": 1712853402.718036,
+      "brake_reaction_time": 2.3369619846343994,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 1.2664318084716797
+    },
+    {
+      "timestamp": 1712853723.8947337,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.5372307726345386,
+      "max_lateral_deviation": 6.353551993034231,
+      "take_over_indication": 1712853703.8941653,
+      "brake_reaction_time": 2.1795668601989746,
+      "steering_reaction_time": 5.117137670516968,
+      "max_longitudinal_deceleration": 7.187175750732422
+    },
+    {
+      "timestamp": 1712853964.4908903,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": true,
+      "lateral_stddev": 0.5152281841918545,
+      "max_lateral_deviation": 0.00439453125,
+      "take_over_indication": 1712853944.486854,
+      "brake_reaction_time": 2.22929048538208,
+      "steering_reaction_time": 6.851611852645874,
+      "max_longitudinal_deceleration": 2.0110130310058594
+    },
+    {
+      "timestamp": 1712854399.1998188,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5411319843964854,
+      "max_lateral_deviation": 5.884493446541391,
+      "take_over_indication": 1712854379.1841023,
+      "brake_reaction_time": 2.2286078929901123,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 5.350255966186523
+    }
+  ],
+  "4": [
+    {
+      "timestamp": 1712854842.9538345,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4307774317549506,
+      "max_lateral_deviation": 1.8718046620822593,
+      "take_over_indication": 1712854822.927588,
+      "brake_reaction_time": 5.037781715393066,
+      "steering_reaction_time": 7.002903699874878,
+      "max_longitudinal_deceleration": 2.3320674896240234
+    },
+    {
+      "timestamp": 1712855192.9219398,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.3202940160923728,
+      "max_lateral_deviation": 3.494230837253151,
+      "take_over_indication": 1712855172.9066784,
+      "brake_reaction_time": 1.5191082954406738,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.0303001403808594
+    },
+    {
+      "timestamp": 1712855355.3434646,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.3509215441058233,
+      "max_lateral_deviation": 2.8208142993731355,
+      "take_over_indication": 1712855335.3413675,
+      "brake_reaction_time": 5.369029760360718,
+      "steering_reaction_time": 6.1629438400268555,
+      "max_longitudinal_deceleration": 3.815746307373047
+    },
+    {
+      "timestamp": 1712855655.9381962,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.37033145924730715,
+      "max_lateral_deviation": 3.458586306003151,
+      "take_over_indication": 1712855635.9339619,
+      "brake_reaction_time": 1.6227223873138428,
+      "steering_reaction_time": 6.225116014480591,
+      "max_longitudinal_deceleration": 4.0302276611328125
+    },
+    {
+      "timestamp": 1712855896.685619,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.3860711429601904,
+      "max_lateral_deviation": 3.464846267391613,
+      "take_over_indication": 1712855876.667611,
+      "brake_reaction_time": 1.7530443668365479,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.755115509033203
+    },
+    {
+      "timestamp": 1712856332.3615024,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4117234809325162,
+      "max_lateral_deviation": 4.515365407144433,
+      "take_over_indication": 1712856312.3387148,
+      "brake_reaction_time": 1.8513092994689941,
+      "steering_reaction_time": 7.616616249084473,
+      "max_longitudinal_deceleration": 3.680896759033203
+    }
+  ],
+  "Middle": [
+    {
+      "timestamp": 1712859442.118486,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.5208476288980877,
+      "max_lateral_deviation": 8.484618312777297,
+      "take_over_indication": 1712859422.1003714,
+      "brake_reaction_time": 1.6023759841918945,
+      "steering_reaction_time": 11.988795518875122,
+      "max_longitudinal_deceleration": 4.019355773925781
+    },
+    {
+      "timestamp": 1712859788.631093,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4804752047679604,
+      "max_lateral_deviation": 5.151857899732156,
+      "take_over_indication": 1712859768.6081915,
+      "brake_reaction_time": 2.294041633605957,
+      "steering_reaction_time": 4.471728563308716,
+      "max_longitudinal_deceleration": 3.661346435546875
+    },
+    {
+      "timestamp": 1712859953.0628314,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4672648920885469,
+      "max_lateral_deviation": 7.001344913087569,
+      "take_over_indication": 1712859933.0474124,
+      "brake_reaction_time": 1.579446792602539,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.241300582885742
+    },
+    {
+      "timestamp": 1712860252.767334,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.41521809705891866,
+      "max_lateral_deviation": 2.0262198024773586,
+      "take_over_indication": 1712860232.7641594,
+      "brake_reaction_time": 1.76871657371521,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.3626556396484375
+    },
+    {
+      "timestamp": 1712860494.3676646,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4235817425220413,
+      "max_lateral_deviation": 5.527777887176999,
+      "take_over_indication": 1712860474.3566973,
+      "brake_reaction_time": 3.4034392833709717,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 6.661224365234375
+    },
+    {
+      "timestamp": 1712860929.7932067,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.44479243432414384,
+      "max_lateral_deviation": 8.05018198040523,
+      "take_over_indication": 1712860909.78376,
+      "brake_reaction_time": 2.1469311714172363,
+      "steering_reaction_time": 6.870933771133423,
+      "max_longitudinal_deceleration": 4.585361480712891
+    }
+  ],
+  "Middle_recorded": [
+    {
+      "timestamp": 1712861450.556194,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5322926035475893,
+      "max_lateral_deviation": 3.8440705506689072,
+      "take_over_indication": 1712861430.529794,
+      "brake_reaction_time": 2.1048946380615234,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 2.4356842041015625
+    },
+    {
+      "timestamp": 1712861797.4368646,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.40253654281837375,
+      "max_lateral_deviation": 3.6733118295755904,
+      "take_over_indication": 1712861777.4287653,
+      "brake_reaction_time": 1.797105312347412,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 2.829265594482422
+    },
+    {
+      "timestamp": 1712861960.6128895,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.43991902889407103,
+      "max_lateral_deviation": 3.177647360133065,
+      "take_over_indication": 1712861940.6117833,
+      "brake_reaction_time": 2.2280025482177734,
+      "steering_reaction_time": 7.69659161567688,
+      "max_longitudinal_deceleration": 4.576349258422852
+    },
+    {
+      "timestamp": 1712862261.5672443,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.38860999479487957,
+      "max_lateral_deviation": 5.008702980852571,
+      "take_over_indication": 1712862241.5614455,
+      "brake_reaction_time": 1.5848939418792725,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.6927223205566406
+    },
+    {
+      "timestamp": 1712862502.1850083,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.42092201196258244,
+      "max_lateral_deviation": 3.5634924343199406,
+      "take_over_indication": 1712862482.1654804,
+      "brake_reaction_time": 3.012368679046631,
+      "steering_reaction_time": 6.669568300247192,
+      "max_longitudinal_deceleration": 4.486942291259766
+    },
+    {
+      "timestamp": 1712862944.8554099,
+      "warning_type": 6,
+      "collision": true,
+      "Reverse": null,
+      "autopilot_mode": true,
+      "lateral_stddev": 0.45930073650052794,
+      "max_lateral_deviation": 2.8339599231480657,
+      "take_over_indication": 1712862924.8533194,
+      "brake_reaction_time": 6.569979429244995,
+      "steering_reaction_time": 5.494441986083984,
+      "max_longitudinal_deceleration": 11.983203887939453
+    }
+  ],
+  "32154": [
+    {
+      "timestamp": 1713210092.146131,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.47127450970669077,
+      "max_lateral_deviation": 3.9069437777148965,
+      "take_over_indication": 1713210072.1277025,
+      "brake_reaction_time": 1.714365005493164,
+      "steering_reaction_time": 2.5402259826660156,
+      "max_longitudinal_deceleration": 2.2591590881347656
+    }
+  ],
+  "sampletest": [
+    {
+      "timestamp": 1714752250.849262,
+      "warning_type": 1,
+      "collision": true,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.21594086652796715,
+      "max_lateral_deviation": 0.011635835092234457,
+      "take_over_indication": 1714752230.8396616,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 11.617136001586914
+    }
+  ],
+  "t2": [
+    {
+      "timestamp": 1714763806.0886433,
+      "warning_type": 1,
+      "collision": true,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.018761075086722336,
+      "max_lateral_deviation": 0.02907116966211811,
+      "take_over_indication": 1714763786.0822544,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.348587989807129
+    }
+  ],
+  "t3": [
+    {
+      "timestamp": 1716406148.5885458,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.42067466860948144,
+      "max_lateral_deviation": 4.091681115089768,
+      "take_over_indication": 1716406128.564671,
+      "brake_reaction_time": 1.6195447444915771,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.420566558837891
+    }
+  ],
+  "testlane": [
+    {
+      "timestamp": 1716396023.950793,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4713039103448103,
+      "max_lateral_deviation": 3.7001871296300965,
+      "take_over_indication": 1716396003.9388692,
+      "brake_reaction_time": 2.0167787075042725,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 2.8412342071533203
+    }
+  ],
+  "lanechange": [
+    {
+      "timestamp": 1716398737.8961618,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": true,
+      "lateral_stddev": 0.47409353027172474,
+      "max_lateral_deviation": 5.495790637243108,
+      "take_over_indication": 1716398717.8740313,
+      "brake_reaction_time": 5.903205156326294,
+      "steering_reaction_time": 2.2650864124298096,
+      "max_longitudinal_deceleration": 3.44696044921875
+    }
+  ],
+  "laneshift": [
+    {
+      "timestamp": 1716399475.0602076,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.16028737401642926,
+      "max_lateral_deviation": 0.032295864517597264,
+      "take_over_indication": 1716399455.0400288,
+      "brake_reaction_time": 2.301997661590576,
+      "steering_reaction_time": 9.981726884841919,
+      "max_longitudinal_deceleration": 3.095245361328125
+    }
+  ],
+  "l2": [
+    {
+      "timestamp": 1716399619.0109878,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.08974657065625835,
+      "max_lateral_deviation": 0.057502713486084205,
+      "take_over_indication": 1716399599.010504,
+      "brake_reaction_time": 3.9481823444366455,
+      "steering_reaction_time": 9.35470962524414,
+      "max_longitudinal_deceleration": 1.8389701843261719
+    }
+  ],
+  "l3": [
+    {
+      "timestamp": 1716400495.7685575,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5759770475763368,
+      "max_lateral_deviation": 7.402017378959348,
+      "take_over_indication": 1716400475.741353,
+      "brake_reaction_time": 2.221334457397461,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.435443878173828
+    }
+  ],
+  "l4": [
+    {
+      "timestamp": 1716401207.474522,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4343047255864083,
+      "max_lateral_deviation": 4.247698595118538,
+      "take_over_indication": 1716401187.4596,
+      "brake_reaction_time": 1.99147367477417,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.059171676635742
+    }
+  ],
+  "l5": [
+    {
+      "timestamp": 1716403839.8165827,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.48164953615151473,
+      "max_lateral_deviation": 3.8681695930806295,
+      "take_over_indication": 1716403819.8139813,
+      "brake_reaction_time": 1.6573281288146973,
+      "steering_reaction_time": 9.322318077087402,
+      "max_longitudinal_deceleration": 2.9572486877441406
+    },
+    {
+      "timestamp": 1716404183.9050205,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4555201037231249,
+      "max_lateral_deviation": 2.6213783066502425,
+      "take_over_indication": 1716404163.8883808,
+      "brake_reaction_time": 1.9571032524108887,
+      "steering_reaction_time": 9.422885656356812,
+      "max_longitudinal_deceleration": 3.4151077270507812
+    },
+    {
+      "timestamp": 1716404346.9938402,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.46407261996116855,
+      "max_lateral_deviation": 4.738522084368078,
+      "take_over_indication": 1716404326.9850419,
+      "brake_reaction_time": 1.387040376663208,
+      "steering_reaction_time": 7.723583698272705,
+      "max_longitudinal_deceleration": 5.431079864501953
+    },
+    {
+      "timestamp": 1716404646.339355,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.49517683513059324,
+      "max_lateral_deviation": 2.9695466804251405,
+      "take_over_indication": 1716404626.339034,
+      "brake_reaction_time": 1.6029596328735352,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.815460205078125
+    },
+    {
+      "timestamp": 1716404887.8160663,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5016904002835804,
+      "max_lateral_deviation": 2.7839673778892045,
+      "take_over_indication": 1716404867.8128872,
+      "brake_reaction_time": 1.7840073108673096,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.659938812255859
+    },
+    {
+      "timestamp": 1716405321.2451625,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5174021208761954,
+      "max_lateral_deviation": 4.194052752811807,
+      "take_over_indication": 1716405301.24024,
+      "brake_reaction_time": 1.9117348194122314,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.9765357971191406
+    }
+  ],
+  "testrun": [
+    {
+      "timestamp": 1716402217.7524033,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.48043796744525735,
+      "max_lateral_deviation": 1.8682004607108342,
+      "take_over_indication": 1716402197.7503052,
+      "brake_reaction_time": 2.4807450771331787,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.35490608215332
+    },
+    {
+      "timestamp": 1716402560.6502259,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.3727636496375909,
+      "max_lateral_deviation": 1.1348104415306788,
+      "take_over_indication": 1716402540.647516,
+      "brake_reaction_time": 2.3240063190460205,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.2552947998046875
+    },
+    {
+      "timestamp": 1716402695.6884494,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.44249508855828135,
+      "max_lateral_deviation": 2.658215907151667,
+      "take_over_indication": 1716402675.6721547,
+      "brake_reaction_time": 3.5494792461395264,
+      "steering_reaction_time": 6.1316516399383545,
+      "max_longitudinal_deceleration": 3.112363815307617
+    },
+    {
+      "timestamp": 1716402977.7156541,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.42642214293340486,
+      "max_lateral_deviation": 5.545259899708483,
+      "take_over_indication": 1716402957.6965747,
+      "brake_reaction_time": 1.7643523216247559,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 6.218814849853516
+    },
+    {
+      "timestamp": 1716403218.1536946,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4511547286171183,
+      "max_lateral_deviation": 3.2292086371562156,
+      "take_over_indication": 1716403198.1388347,
+      "brake_reaction_time": 1.8888375759124756,
+      "steering_reaction_time": 7.102367162704468,
+      "max_longitudinal_deceleration": 9.32302474975586
+    },
+    {
+      "timestamp": 1716403655.3161304,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4717318975118097,
+      "max_lateral_deviation": 4.293463974722421,
+      "take_over_indication": 1716403635.2979684,
+      "brake_reaction_time": 2.874168872833252,
+      "steering_reaction_time": 3.8589632511138916,
+      "max_longitudinal_deceleration": 3.577709197998047
+    }
+  ],
+  "t5": [
+    {
+      "timestamp": 1718911862.1197827,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4426179798295468,
+      "max_lateral_deviation": 6.1602778705983505,
+      "take_over_indication": 1718911842.0967534,
+      "brake_reaction_time": 4.708863019943237,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 3.238201141357422
+    },
+    {
+      "timestamp": 1718912144.4751854,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5977638152588083,
+      "max_lateral_deviation": 5.4957911203837,
+      "take_over_indication": 1718912124.4570656,
+      "brake_reaction_time": 0.8778963088989258,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.256439208984375
+    },
+    {
+      "timestamp": 1718912296.6670797,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.565769196194431,
+      "max_lateral_deviation": 3.512815500234807,
+      "take_over_indication": 1718912276.6492934,
+      "brake_reaction_time": 0.9134633541107178,
+      "steering_reaction_time": 11.788268327713013,
+      "max_longitudinal_deceleration": 5.321407318115234
+    },
+    {
+      "timestamp": 1718912540.563754,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.5858737535516964,
+      "max_lateral_deviation": 6.907335831966645,
+      "take_over_indication": 1718912520.549199,
+      "brake_reaction_time": 1.8670573234558105,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 2.265453338623047
+    }
+  ],
+  "t6": [
+    {
+      "timestamp": 1718907493.5558903,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.07521170311019339,
+      "max_lateral_deviation": 0.5388842388702021,
+      "take_over_indication": 1718907473.5534735,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 0.0
+    },
+    {
+      "timestamp": 1718907789.834896,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.06673488554291651,
+      "max_lateral_deviation": 0,
+      "take_over_indication": 1718907769.8321233,
+      "brake_reaction_time": 127.10656785964966,
+      "steering_reaction_time": 127.43739438056946,
+      "max_longitudinal_deceleration": 0.0
+    }
+  ],
+  "test": [
+    {
+      "timestamp": 1717427589.4331367,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.7447089105916153,
+      "max_lateral_deviation": 8.431137052185836,
+      "take_over_indication": 1717427569.4241211,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 1.46026611328125
+    },
+    {
+      "timestamp": 1717427751.849035,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.7364550981185178,
+      "max_lateral_deviation": 5.962162141700733,
+      "take_over_indication": 1717427731.8354287,
+      "brake_reaction_time": null,
+      "steering_reaction_time": 5.752413511276245,
+      "max_longitudinal_deceleration": 4.600763320922852
+    },
+    {
+      "timestamp": 1717428049.5826437,
+      "warning_type": 3,
+      "collision": true,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.6841259085924386,
+      "max_lateral_deviation": 7.899800386299436,
+      "take_over_indication": 1717428029.5774026,
+      "brake_reaction_time": null,
+      "steering_reaction_time": 4.905611991882324,
+      "max_longitudinal_deceleration": 1074.1025390625
+    },
+    {
+      "timestamp": 1717428371.136348,
+      "warning_type": 4,
+      "collision": true,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.7436576728414261,
+      "max_lateral_deviation": 6.882022508668158,
+      "take_over_indication": 1717428351.1307368,
+      "brake_reaction_time": null,
+      "steering_reaction_time": 6.336359977722168,
+      "max_longitudinal_deceleration": 3.3263206481933594
+    }
+  ],
+  "final test": [
+    {
+      "timestamp": 1716413389.730193,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.5089296015299153,
+      "max_lateral_deviation": 7.91206503165588,
+      "take_over_indication": 1716413369.728447,
+      "brake_reaction_time": 1.616715431213379,
+      "steering_reaction_time": 5.796795606613159,
+      "max_longitudinal_deceleration": 3.8814544677734375
+    }
+  ],
+  "13": [
+    {
+      "timestamp": 1717431729.161386,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4375307734301548,
+      "max_lateral_deviation": 3.7193273592391805,
+      "take_over_indication": 1717431709.1456022,
+      "brake_reaction_time": 2.0821354389190674,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 1.60369873046875
+    },
+    {
+      "timestamp": 1717432074.093343,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.3227307757106397,
+      "max_lateral_deviation": 1.9192752215727211,
+      "take_over_indication": 1717432054.0865006,
+      "brake_reaction_time": 2.266371488571167,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 0.0
+    },
+    {
+      "timestamp": 1717432239.4795482,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.33962509833068233,
+      "max_lateral_deviation": 4.373530505249015,
+      "take_over_indication": 1717432219.477058,
+      "brake_reaction_time": 1.8744592666625977,
+      "steering_reaction_time": 5.897929906845093,
+      "max_longitudinal_deceleration": 2.577829360961914
+    },
+    {
+      "timestamp": 1717432540.3515751,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.35271576104438657,
+      "max_lateral_deviation": 2.4464187536329813,
+      "take_over_indication": 1717432520.3384898,
+      "brake_reaction_time": 2.0466575622558594,
+      "steering_reaction_time": 4.916683912277222,
+      "max_longitudinal_deceleration": 6.099796295166016
+    },
+    {
+      "timestamp": 1717432780.697564,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.3699880486450543,
+      "max_lateral_deviation": 2.2186503586795174,
+      "take_over_indication": 1717432760.695093,
+      "brake_reaction_time": 1.872340202331543,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 6.2366485595703125
+    },
+    {
+      "timestamp": 1717433209.6406512,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4016941078582656,
+      "max_lateral_deviation": 4.559819572001244,
+      "take_over_indication": 1717433189.629689,
+      "brake_reaction_time": 2.100942611694336,
+      "steering_reaction_time": 4.822249412536621,
+      "max_longitudinal_deceleration": 1.7199039459228516
+    }
+  ],
+  "15": [
+    {
+      "timestamp": 1717440474.1120083,
+      "warning_type": 1,
+      "collision": null,
+      "Reverse": false,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.43380367832160366,
+      "max_lateral_deviation": 3.8605966263472773,
+      "take_over_indication": 1717440454.093874,
+      "brake_reaction_time": 2.913785696029663,
+      "steering_reaction_time": 13.606306791305542,
+      "max_longitudinal_deceleration": 1.2628555297851562
+    },
+    {
+      "timestamp": 1717440828.6204736,
+      "warning_type": 2,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.4976398971677285,
+      "max_lateral_deviation": 2.4817811676745842,
+      "take_over_indication": 1717440808.6067388,
+      "brake_reaction_time": 2.9666340351104736,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 4.090309143066406
+    },
+    {
+      "timestamp": 1717440999.3247619,
+      "warning_type": 3,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4633407492488989,
+      "max_lateral_deviation": 2.3008661089451556,
+      "take_over_indication": 1717440979.3238587,
+      "brake_reaction_time": 2.8420703411102295,
+      "steering_reaction_time": 6.435673713684082,
+      "max_longitudinal_deceleration": 4.73027229309082
+    },
+    {
+      "timestamp": 1717441306.409284,
+      "warning_type": 4,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4960095912501401,
+      "max_lateral_deviation": 2.3420445265813745,
+      "take_over_indication": 1717441286.3906531,
+      "brake_reaction_time": 3.033254861831665,
+      "steering_reaction_time": 5.08409571647644,
+      "max_longitudinal_deceleration": 5.553531646728516
+    },
+    {
+      "timestamp": 1717441555.5185585,
+      "warning_type": 5,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4865119079238508,
+      "max_lateral_deviation": 2.196081906542342,
+      "take_over_indication": 1717441535.5037386,
+      "brake_reaction_time": 2.9360857009887695,
+      "steering_reaction_time": 8.076185464859009,
+      "max_longitudinal_deceleration": 5.503368377685547
+    },
+    {
+      "timestamp": 1717441996.8706973,
+      "warning_type": 6,
+      "collision": null,
+      "Reverse": null,
+      "autopilot_mode": false,
+      "lateral_stddev": 0.4872517868711657,
+      "max_lateral_deviation": 2.4278117570346813,
+      "take_over_indication": 1717441976.8660903,
+      "brake_reaction_time": 2.4484922885894775,
+      "steering_reaction_time": 5.276281118392944,
+      "max_longitudinal_deceleration": 3.2732009887695312
+    }
+  ],
+  "t1": [
+    {
+      "timestamp": 1718898462.9336593,
+      "warning_type": 1,
+      "collision": true,
+      "Reverse": false,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.1813146067664777,
+      "max_lateral_deviation": 0.011934809785841426,
+      "take_over_indication": 1718898442.9153962,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 11.02297306060791
+    },
+    {
+      "timestamp": 1718898840.1956596,
+      "warning_type": 2,
+      "collision": true,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.13447820790583087,
+      "max_lateral_deviation": 0.04600799276881145,
+      "take_over_indication": 1718898820.188826,
+      "brake_reaction_time": null,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 0.0
+    },
+    {
+      "timestamp": 1718899031.8177123,
+      "warning_type": 3,
+      "collision": true,
+      "Reverse": null,
+      "autopilot_mode": null,
+      "lateral_stddev": 0.11131149791061132,
+      "max_lateral_deviation": 0.15380964533257555,
+      "take_over_indication": 1718899011.793246,
+      "brake_reaction_time": 5.891979455947876,
+      "steering_reaction_time": null,
+      "max_longitudinal_deceleration": 14.175695419311523
+    }
+  ]
+}
